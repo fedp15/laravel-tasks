@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'fedp-app-laravel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_22F210140FF0498FB1830BFBF73E5123 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B1654179D07242D7B31A0CBB1F01B465 }}
           package: .
